@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: William  
+- Certification: Meta Data Engineer
 
 ## Instructions
 Please replace the placeholders with your details:
